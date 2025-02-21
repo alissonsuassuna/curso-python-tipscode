@@ -1,0 +1,1 @@
+word_list = ['celular', 'casa', 'computador', 'cristo', 'alisson', 'iped', 'Gato' ]
